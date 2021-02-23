@@ -6,3 +6,6 @@ Source: https://github.com/Kotlin/anko
 The anko library is very easy to use, but maybe you can consider using Kotlin coroutines.  
 
 Copyright 2016 JetBrains s.r.o.
+
+
+https://jitpack.io/#ae-app-labs/lib-anko-async  
